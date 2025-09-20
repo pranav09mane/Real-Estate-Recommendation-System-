@@ -1,0 +1,89 @@
+locality_name,region_name,price,value_per_sqft,area,construction_status,house_type,total_rooms,total_beds,new_resale,age
+Ramanmala,Kolhapur,1800000,3673,490,Ready to move,Apartment,3,1,Resale,1.5
+Gokul Shirgaon,Kolhapur,1800000,3673,490,Ready to move,Apartment,3,1,Resale,1.5
+Kagal,Kolhapur,2600000,3768,690,Ready to move,Apartment,3,1,Resale,5.5
+Morewadi,Kolhapur,3800000,3800,1000,Ready to move,Independent House,4,2,Resale,5.5
+Ujlaiwadi,Kolhapur,13000000,6500,2000,Ready to move,Independent House,5,3,Resale,2.5
+RK nagar,Kolhapur,13000000,6500,2000,Ready to move,Independent House,5,3,Resale,2.5
+Bawda,Kolhapur,2700000,3515,768,Ready to move,Apartment,4,2,old,2.5
+Mangalwar peth,Kolhapur,2700000,3515,768,Ready to move,Apartment,4,2,old,2.5
+Kalamba,Kolhapur,4500000,4166,1080,Ready to move,Apartment,4,2,Resale,2
+Rankala,Kolhapur,4500000,4166,1080,Ready to move,Apartment,4,2,Resale,2
+New Palace,Kolhapur,2800000,3104,902,Under Construction,Independent House,4,2,Resale,2
+Hari Om Nagar,Kolhapur,13000000,7975,1630,Ready to move,Apartment,5,3,old,1.5
+Kandalgaon,Kolhapur,2850000,4488,635,Ready to move,Apartment,3,1,Resale,5.5
+Tapowan,Kolhapur,2850000,4488,635,Ready to move,Apartment,3,1,Resale,5.5
+Gokul Shirgaon MIDC,Kolhapur,3200000,4953,646,Ready to move,Apartment,3,1,Resale,2.5
+Shiroli,Kolhapur,3200000,4953,646,Ready to move,Apartment,3,1,Resale,2.5
+Gandhinagar,Kolhapur,3200000,4953,646,Ready to move,Apartment,3,1,Resale,2.5
+Murgud,Kolhapur,16000000,8747,1829,Ready to move,Apartment,5,3,Resale,5.5
+Toap,Kolhapur,16000000,8747,1829,Ready to move,Apartment,5,3,Resale,5.5
+Gargoti,Kolhapur,3500000,3500,1000,Under Construction,Independent House,4,2,Resale,2
+Takala,Kolhapur,3500000,3500,1000,Under Construction,Independent House,4,2,Resale,2
+Ujlaiwadi,Kolhapur,3500000,3500,1000,Under Construction,Independent House,4,2,Resale,2
+Rajarampuri,Kolhapur,7051000,5861,1203,Ready to move,Independent Floor,4,2,Resale,6.5
+Gargoti,Kolhapur,7051000,5861,1203,Ready to move,Independent Floor,4,2,Resale,6.5
+Gokul Shirgaon,Kolhapur,7051000,5861,1203,Ready to move,Independent Floor,4,2,Resale,6.5
+Kalamba,Kolhapur,7051000,5861,1203,Ready to move,Independent Floor,4,2,Resale,6.5
+Rajendra Nagar,Kolhapur,3800000,4222,900,Under Construction,Apartment,4,2,New,1
+Gokul Shirgaon MIDC,Kolhapur,4200000,4325,971,Ready to move,Apartment,4,2,Resale,2
+Tapowan,Kolhapur,4800000,4000,1200,Ready to move,Apartment,4,2,Resale,3
+Mangalwar Peth,Kolhapur,4800000,4000,1200,Ready to move,Apartment,4,2,Resale,3
+Shastri Nagar,Kolhapur,2100000,3230,650,Ready to move,Apartment,3,1,Resale,1
+Rankala,Kolhapur,2500000,10416,240,Ready to move,Studio Apartment,2,0,Resale,2.5
+Manganwlarpeth,Kolhapur,4800000,5485,875,Ready to move,Apartment,4,2,old,10.5
+Shiroli,Kolhapur,5800000,4957,1170,Ready to move,Villa,4,2,Resale,12.5
+Kanerkar Nagar,Kolhapur,3200000,2909,1100,Ready to move,Villa,4,2,Resale,4
+Hari Om Nagar,Kolhapur,2850000,5181,550,Ready to move,Apartment,3,1,Resale,5.5
+Gokul Shirgaon,Kolhapur,12500000,5681,2200,Ready to move,Apartment,6,4,Resale,3
+Panhala,Kolhapur,4000000,4444,900,Ready to move,Independent House,4,2,Resale,1
+Deokar Panand,Kolhapur,2800000,5090,550,Ready to move,Apartment,4,2,Resale,2
+Murgud,Kolhapur,2800000,5090,550,Ready to move,Apartment,4,2,Resale,2
+Rajarampuri,Kolhapur,18000000,8000,2250,Ready to move,Independent Floor,8,6,Resale,5.5
+Ujlaiwadi,Kolhapur,4000000,4210,950,Ready to move,Apartment,4,2,old,15.5
+Tarabai Park,Kolhapur,5000000,5000,1000,Ready to move,Independent House,5,3,Resale,2.5
+Rajendra Nagar,Kolhapur,9900000,5322,1860,Ready to move,Independent House,5,3,Resale,4.5
+Shiroli,Kolhapur,4000000,4410,907,Ready to move,Apartment,4,2,old,1.5
+Kalamba,Kolhapur,7200000,5309,1356,Ready to move,Apartment,5,3,Resale,3
+Bawda,Kolhapur,4800000,6083,789,Ready to move,Independent Floor,4,2,Resale,1
+Gokul Shirgaon,Kolhapur,2800000,6222,450,Ready to move,Independent House,4,2,Resale,3.5
+Ujlaiwadi,Kolhapur,2700000,3176,850,Under Construction,Independent House,4,2,Resale,2
+Rankala,Kolhapur,4800000,6083,789,Ready to move,Independent Floor,4,2,Resale,1
+Manganwlarpeth,Kolhapur,7100000,4551,1560,Ready to move,Independent House,5,3,Resale,5.5
+Rajendra Nagar,Kolhapur,7200000,5309,1356,Ready to move,Apartment,5,3,Resale,3
+Murgud,Kolhapur,4000000,3972,1007,Ready to move,Apartment,4,2,Resale,2
+Laxminarayan Nagar,Kolhapur,9900000,5322,1860,Ready to move,Independent House,5,3,Resale,4.5
+Mangalwar Peth,Kolhapur,2300000,3833,600,Ready to move,Independent House,3,1,Resale,2
+Rajarampuri,Kolhapur,7000000,4572,1531,Ready to move,Apartment,5,3,Resale,3.5
+Hari Om Nagar,Kolhapur,3500000,5384,650,Ready to move,Independent House,4,2,Resale,0.5
+Shastri Nagar,Kolhapur,2600000,4905,530,Ready to move,Apartment,3,1,old,1.5
+Tapowan,Kolhapur,3300000,3529,935,Ready to move,Apartment,4,2,Resale,1
+Gargoti,Kolhapur,3600000,3428,1050,Ready to move,Independent House,4,2,Resale,2
+Panhala,Kolhapur,7100000,4551,1560,Ready to move,Independent House,5,3,Resale,5.5
+New Palace,Kolhapur,5000000,5000,1000,Ready to move,Independent House,5,3,Resale,2.5
+Gokul Shirgaon MIDC,Kolhapur,500000,1562,320,Ready to move,Studio Apartment,2,0,Resale,1
+Kanerkar Nagar,Kolhapur,500000,1562,320,Ready to move,Studio Apartment,2,0,Resale,1
+Rajarampuri,Kolhapur,6200000,5961,1040,Ready to move,Apartment,4,2,old,6.5
+Shastri Nagar,Kolhapur,3600000,3428,1050,Ready to move,Independent House,4,2,Resale,2
+Ujlaiwadi,Kolhapur,2600000,4905,530,Ready to move,Apartment,3,1,old,1.5
+Tarabai Park,Kolhapur,18000000,8000,2250,Ready to move,Independent Floor,8,6,Resale,5.5
+Murgud,Kolhapur,5000000,3306,1512,Ready to move,Independent House,4,2,Resale,2
+Kalamba,Kolhapur,1600000,2666,600,Ready to move,Independent House,3,1,Resale,4.5
+Rankala,Kolhapur,4600000,6433,715,Ready to move,Apartment,3,1,old,5.5
+Gokul Shirgaon MIDC,Kolhapur,6600000,5500,1200,Ready to move,Apartment,4,2,old,4.5
+Panhala,Kolhapur,3000000,5454,550,Ready to move,Apartment,4,2,Resale,1.5
+Mangalwar Peth,Kolhapur,9900000,5322,1860,Ready to move,Independent House,5,3,Resale,4.5
+Laxminarayan Nagar,Kolhapur,2600000,4905,530,Ready to move,Apartment,3,1,old,1.5
+Shiroli,Kolhapur,4600000,6433,715,Ready to move,Apartment,3,1,old,5.5
+Gokul Shirgaon,Kolhapur,6600000,5500,1200,Ready to move,Apartment,4,2,old,4.5
+Tapowan,Kolhapur,500000,1562,320,Ready to move,Studio Apartment,2,0,Resale,1
+Gargoti,Kolhapur,4000000,4000,1000,Ready to move,Independent House,4,2,Resale,2
+Deokar Panand,Kolhapur,4000000,4210,950,Ready to move,Apartment,4,2,Resale,2.5
+Manganwlarpeth,Kolhapur,4000000,4000,1000,Ready to move,Independent House,4,2,Resale,2
+Bawda,Kolhapur,4800000,6083,789,Ready to move,Independent Floor,4,2,Resale,1
+Rajendra Nagar,Kolhapur,3500000,4666,750,Ready to move,Apartment,4,2,Resale,2.5
+Hari Om Nagar,Kolhapur,1600000,2666,600,Ready to move,Independent House,3,1,Resale,4.5
+Rajarampuri,Kolhapur,3200000,5333,600,Ready to move,Independent House,3,1,Resale,1
+Shastri Nagar,Kolhapur,5200000,5777,900,Ready to move,Independent Floor,4,2,Resale,2
+Ujlaiwadi,Kolhapur,4999000,4166,1200,Ready to move,Independent House,4,2,Resale,3.5
+Tarabai Park,Kolhapur,3500000,4666,750,Ready to move,Apartment,4,2,old,15.5
